@@ -1,0 +1,14 @@
+      ======================================================================================
+     Resource Usage on 2024-10-08 00:26:31.890234:
+     JobId: 9529893.venus01  				 Project: _pbs_project_default 
+     Submission Host: atlas9-c01.hpc.local 
+     Exit Status: 271
+     NCPUs Requested: 5 				 NCPUs Used: 5
+     Memory Requested: 4gb 				 Memory Used: 4312928kb 
+     Vmem Used: 5276560kb
+     CPU Time Used: 04:02:27 
+     Walltime requested: 24:00:00 			 Walltime Used: 00:48:50
+     Submit Time:  Mon Oct  7 23:37:37 2024 		 Start Time: Tue Oct  8 00:26:20 2024 
+     End Time: Tue Oct  8 00:26:31 2024 
+     Execution Nodes Used: (tiger2-c57:ncpus=5)
+     ======================================================================================

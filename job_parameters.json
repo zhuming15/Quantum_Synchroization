@@ -1,0 +1,31 @@
+[
+  {
+    "job_name": "spin3_job",
+    "ncpus": 5,
+    "mem": "10gb",
+    "walltime": "24:00:00",
+    "script_name": "spin3.py"
+  },
+  {
+    "job_name": "spin4_strong_job",
+    "ncpus": 8,
+    "mem": "10gb",
+    "walltime": "24:00:00",
+    "script_name": "spin4_strong.py"
+  },
+  {
+    "job_name": "spin4_weak_job",
+    "ncpus": 4,
+    "mem": "10gb",
+    "walltime": "24:00:00",
+    "script_name": "spin4_weak.py"
+  },
+  {
+    "job_name": "spin8_job",
+    "ncpus": 10,
+    "mem": "10gb",
+    "walltime": "24:00:00",
+    "script_name": "spin8.py"
+  }
+]
+

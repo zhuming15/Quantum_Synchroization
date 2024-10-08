@@ -1,0 +1,25 @@
+10.0%. Run time: 103.47s. Est. time left: 00:00:15:31
+20.0%. Run time: 209.05s. Est. time left: 00:00:13:56
+30.0%. Run time: 314.40s. Est. time left: 00:00:12:13
+40.0%. Run time: 419.76s. Est. time left: 00:00:10:29
+50.0%. Run time: 525.55s. Est. time left: 00:00:08:45
+60.0%. Run time: 630.72s. Est. time left: 00:00:07:00
+70.0%. Run time: 736.37s. Est. time left: 00:00:05:15
+80.0%. Run time: 841.78s. Est. time left: 00:00:03:30
+90.0%. Run time: 947.47s. Est. time left: 00:00:01:45
+100.0%. Run time: 1052.50s. Est. time left: 00:00:00:00
+Total run time: 1054.61s
+      ======================================================================================
+     Resource Usage on 2024-10-07 23:37:21.985080:
+     JobId: 9529879.venus01  				 Project: _pbs_project_default 
+     Submission Host: atlas9-c01.hpc.local 
+     Exit Status: 1
+     NCPUs Requested: 5 				 NCPUs Used: 5
+     Memory Requested: 4gb 				 Memory Used: 772812kb 
+     Vmem Used: 1739120kb
+     CPU Time Used: 00:17:42 
+     Walltime requested: 24:00:00 			 Walltime Used: 00:18:27
+     Submit Time:  Mon Oct  7 23:18:51 2024 		 Start Time: Mon Oct  7 23:18:54 2024 
+     End Time: Mon Oct  7 23:37:21 2024 
+     Execution Nodes Used: (tiger2-c57:ncpus=5)
+     ======================================================================================

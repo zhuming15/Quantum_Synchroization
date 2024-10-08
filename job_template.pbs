@@ -1,0 +1,13 @@
+#!/bin/bash
+#PBS -N {{job_name}}                # Name of the job
+#PBS -l select=1:ncpus={{ncpus}}:mem={{mem}}  # Number of CPUs and memory
+#PBS -l walltime={{walltime}}       # Maximum wall time
+#PBS -o FYP/logs/{{job_name}}.out  # Standard output file
+#PBS -e FYP/logs/{{job_name}}.err  # Standard error file
+
+module load miniconda
+source activate fyp
+
+cd FYP/scripts
+python3 {{script_name}}  # Python script to run
+

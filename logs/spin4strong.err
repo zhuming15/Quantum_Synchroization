@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/home/svu/e0735464/FYP/spin4_strong.py", line 31, in <module>
+    qsave(result, 'spin4_strong')
+    ^^^^^
+NameError: name 'qsave' is not defined

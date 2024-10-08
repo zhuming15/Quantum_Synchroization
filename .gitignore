@@ -1,0 +1,33 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files and output directories
+# logs/
+# *.log
+
+# PBS job scripts generated dynamically
+# generated_jobs/
+# *.pbs
+
+# Data files
+# data/
+# *.csv
+# *.dat
+# *.h5
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+# .vscode/
+# .idea/
+
